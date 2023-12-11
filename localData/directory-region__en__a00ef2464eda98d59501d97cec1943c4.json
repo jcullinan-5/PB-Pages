@@ -1,0 +1,240 @@
+{
+	"__": {
+		"name": "region"
+	},
+	"_site": {
+		"c_copyrightMessage": "© 2022. All Rights Reserved.",
+		"c_facebook": "https://www.facebook.com/",
+		"c_footerLinks": [
+			{
+				"label": "Link1",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link2",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link3",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link4",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link5",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			}
+		],
+		"c_header": {
+			"links": [
+				{
+					"label": "Link1",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link2",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link3",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link4",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link5",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"height": 100,
+				"url": "http://a.mktgcdn.com/p/BzSALSNKyVBFz797EoaKt_k3rgAJonv9DnbGYMbxqds/100x100.png",
+				"width": 100
+			}
+		},
+		"c_instagram": "https://www.instagram.com/",
+		"c_linkedIn": "https://www.linkedin.com/",
+		"c_nearbySectionAPIKey": "21b6fb4f5e4082596e9e340e6a82986a",
+		"c_searchPage": [
+			{
+				"slug": "search"
+			}
+		],
+		"c_twitter": "https://www.twitter.com/",
+		"c_youtube": "https://www.youtube.com/",
+		"id": "site-entity",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 141687
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1024956870
+	},
+	"businessId": 3499745,
+	"dm_directoryChildren": [
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Bridgeville",
+			"slug": "pa/bridgeville"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Grove City",
+			"slug": "pa/grove-city"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Lancaster",
+			"slug": "pa/lancaster"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Mount Lebanon",
+			"slug": "pa/mount-lebanon"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Allison Park",
+			"slug": "pa/allison-park"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Cranberry",
+			"slug": "pa/cranberry"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Altoona",
+			"slug": "pa/altoona"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Erie",
+			"slug": "pa/erie"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Homestead",
+			"slug": "pa/homestead"
+		},
+		{
+			"dm_baseEntityCount": "10",
+			"name": "Pittsburgh",
+			"slug": "pa/pittsburgh"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Moon Township",
+			"slug": "pa/moon-township"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Chambersburg",
+			"slug": "pa/chambersburg"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Monroeville",
+			"slug": "pa/monroeville"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Washington",
+			"slug": "pa/washington"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Hershey",
+			"slug": "pa/hershey"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Camp Hill",
+			"slug": "pa/camp-hill"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "York",
+			"slug": "pa/york"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Uniontown",
+			"slug": "pa/uniontown"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "North Versailles",
+			"slug": "pa/north-versailles"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Monaca",
+			"slug": "pa/monaca"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Johnstown",
+			"slug": "pa/johnstown"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "State College",
+			"slug": "pa/state-college"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Hanover",
+			"slug": "pa/hanover"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Greensburg",
+			"slug": "pa/greensburg"
+		},
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Dickson City",
+			"slug": "pa/dickson-city"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"name": "Primanti Bros Directory",
+			"slug": "index.html"
+		}
+	],
+	"id": "primantiDirectory_pa",
+	"key": "0:region:knowledgeGraph:1024957152:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_region",
+			"uid": 141684
+		},
+		"locale": "en"
+	},
+	"name": "PA",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "pa",
+	"uid": 1024957152
+}

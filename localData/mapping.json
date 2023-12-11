@@ -1,0 +1,44 @@
+{
+	"404": [
+		"cog-internal-feature-static-file-generation-404__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"city": [
+		"directory-city__en__967aaf7246250bc567e59df5bf6325b8.json",
+		"directory-city__en__c4489a2be90c9111a157ea40e4475f1a.json",
+		"directory-city__en__05ded173944bf27234148358a9d46f72.json",
+		"directory-city__en__19741f1b28cdd682077be067560c87d2.json",
+		"directory-city__en__00d4a17b0c81e8a4dfa851b09d011e67.json",
+		"directory-city__en__8cf24c4091bb36b615a0d42509485459.json",
+		"directory-city__en__5496e4eb419cd49003d713962f8316c9.json",
+		"directory-city__en__1f9790af7da248c191a35b43fc028672.json",
+		"directory-city__en__49894c268f992f56dcfee8dbb24c388d.json",
+		"directory-city__en__88578764f0cadab343e0b64b578544db.json"
+	],
+	"entity": [
+		"locations__en__9c6198375c3e8e97d5c4a6d93966d33a.json",
+		"locations__en__b8c5e29c22ab1ba22a18dafdd51cffe0.json",
+		"locations__en__e06cce7e13a47a316dd43d103dc6be77.json",
+		"locations__en__38918ed1c948df9b6604f549336d99f7.json",
+		"locations__en__3077bc9cd2d2d22c7059e691e2207f15.json",
+		"locations__en__a9c78db35ec2015af759404e94f044ab.json",
+		"locations__en__dfb87de47245bd9be6a7065645bca77b.json",
+		"locations__en__8d9025596745ceafa03ca633f8a7cf8c.json",
+		"locations__en__a4c1f3acb935d5dd941267df2cba0d22.json",
+		"locations__en__0e4deb0b7a9525f09994901a50938494.json"
+	],
+	"region": [
+		"directory-region__en__a00ef2464eda98d59501d97cec1943c4.json",
+		"directory-region__en__47a655250be6786d5bc2d186e0fa9d1b.json",
+		"directory-region__en__f1469a63f24c705357a2af0055e99509.json",
+		"directory-region__en__5c2bae5ce40ec2a06bbfa3616b113504.json"
+	],
+	"robots": [
+		"cog-internal-feature-static-file-generation-robots__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"root": [
+		"directory-root__en__e0815901c6527201f76fe4299470289d.json"
+	],
+	"search": [
+		"search-page__en__2c79af1a9ab4ee28994a3fdd933d5deb.json"
+	]
+}

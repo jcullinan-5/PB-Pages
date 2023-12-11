@@ -1,0 +1,168 @@
+.nap {
+  font-family: Uniform, sans-serif;
+}
+
+section.nap > div {
+  min-height: 530px;
+}
+@media (max-width: 767px) {
+  section.nap > div {
+    min-height: 0;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .col-50 {
+    width: 100%;
+  }
+}
+
+.addressBlock {
+  position: relative;
+  background-size: cover;
+  display: inline-block;
+  padding: 15px 30px;
+  /* Your other styles */
+}
+
+.addressBlock.with-overlay::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+  z-index: 1; /* Make sure the overlay is behind the content */
+}
+.col-50 {
+  float: left;
+  width: 50%;
+}
+.addressBlock {
+  padding: 15px;
+}
+
+.addressBlock_inner h1 {
+  color: #fff;
+  margin: 25px 0 0;
+  position: relative;
+}
+
+.addressBlock_inner {
+  color: #fff;
+  position: relative;
+  text-align: right;
+  z-index: 7;
+  padding: 15px;
+}
+
+.hero--after {
+  border-bottom: 2px solid #fff;
+  border-radius: 0;
+  bottom: -10px;
+  display: block;
+  height: 5px;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+.addressBlock .address {
+  margin: 25px 0 5px;
+}
+
+.address--header {
+  color: #fff;
+  font-size: 1.25rem;
+  margin-bottom: 0;
+}
+
+/* .with-overlay {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+} */
+
+.address--address {
+  line-height: 1.2;
+  margin-top: 10px;
+}
+
+.addressBlock .phone {
+  margin: 0 0 10px;
+}
+.phone--number {
+  color: #fff;
+  text-decoration: underline;
+  z-index: 10;
+}
+
+.addressBlock_inner {
+  z-index: 8;
+}
+
+.addressBlock .btn {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.hours-wrapper,
+.cta_wrapper {
+  margin: 20px 0 0;
+}
+
+.hours_cta {
+  padding: 30px 30px;
+}
+
+.regular-hours,
+.holiday-hours {
+  float: left;
+}
+.holiday-hours {
+  margin-left: 80px;
+}
+
+.cta_wrapper {
+  clear: both;
+  max-width: 365px;
+}
+.buttonContainerWrapper {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+cta_wrapper a:nth-of-type(odd) {
+  margin-right: 15px;
+}
+.cta_wrapper a {
+  margin: 0 15px 0 0;
+  width: 161px;
+}
+
+.h2-hours {
+  color: rgba(0, 0, 0, var(--text-opacity));
+  font-family: "Alternate Gothic Std No 1", sans-serif;
+  font-weight: 500;
+  line-height: 1;
+  font-size: 1.875rem;
+}
+
+.holiday-hours h2 span.fa.fa-beer {
+  color: #ac172c;
+  font-size: 24px;
+  margin-left: 0;
+  margin-right: 5px;
+}

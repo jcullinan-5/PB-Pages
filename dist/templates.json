@@ -1,0 +1,216 @@
+{
+  "features": [
+    {
+      "name": "search",
+      "streamId": "search-page",
+      "templateType": "JS",
+      "entityPageSet": {}
+    },
+    {
+      "name": "root",
+      "streamId": "directory-root",
+      "templateType": "JS",
+      "entityPageSet": {}
+    },
+    {
+      "name": "robots",
+      "templateType": "JS",
+      "staticPage": {}
+    },
+    {
+      "name": "region",
+      "streamId": "directory-region",
+      "templateType": "JS",
+      "entityPageSet": {}
+    },
+    {
+      "name": "entity",
+      "streamId": "locations",
+      "templateType": "JS",
+      "entityPageSet": {}
+    },
+    {
+      "name": "city",
+      "streamId": "directory-city",
+      "templateType": "JS",
+      "entityPageSet": {}
+    },
+    {
+      "name": "404",
+      "templateType": "JS",
+      "staticPage": {}
+    }
+  ],
+  "streams": [
+    {
+      "$id": "search-page",
+      "fields": [
+        "id",
+        "uid",
+        "meta",
+        "name",
+        "slug",
+        "c_searchTitle",
+        "c_searchSubTitle",
+        "c_searchPlaceholderText"
+      ],
+      "filter": {
+        "entityIds": [
+          "search-page"
+        ]
+      },
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
+      "source": "knowledgeGraph",
+      "destination": "pages"
+    },
+    {
+      "$id": "directory-root",
+      "fields": [
+        "id",
+        "uid",
+        "meta",
+        "name",
+        "slug",
+        "c_meta",
+        "dm_directoryParents.slug",
+        "dm_directoryParents.name",
+        "dm_directoryChildren.slug",
+        "dm_directoryChildren.name",
+        "dm_directoryChildren.dm_baseEntityCount"
+      ],
+      "filter": {
+        "savedFilterIds": [
+          "dm_defaultDirectory"
+        ]
+      },
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
+      "source": "knowledgeGraph",
+      "destination": "pages"
+    },
+    {
+      "$id": "directory-region",
+      "fields": [
+        "id",
+        "uid",
+        "meta",
+        "name",
+        "slug",
+        "c_meta",
+        "dm_directoryParents.slug",
+        "dm_directoryParents.name",
+        "dm_directoryChildren.slug",
+        "dm_directoryChildren.name",
+        "dm_directoryChildren.dm_baseEntityCount"
+      ],
+      "filter": {
+        "savedFilterIds": [
+          "dm_defaultDirectory_address_region"
+        ]
+      },
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
+      "source": "knowledgeGraph",
+      "destination": "pages"
+    },
+    {
+      "$id": "locations",
+      "fields": [
+        "id",
+        "uid",
+        "logo",
+        "c_meta",
+        "name",
+        "address",
+        "mainPhone",
+        "tollFreePhone",
+        "emails",
+        "yextDisplayCoordinate",
+        "description",
+        "hours",
+        "googlePlaceId",
+        "photoGallery",
+        "ref_listings.listingUrl",
+        "ref_listings.publisher",
+        "additionalHoursText",
+        "services",
+        "dm_directoryParents.name",
+        "dm_directoryParents.slug",
+        "dm_baseEntityCount",
+        "slug",
+        "c_aboutSection",
+        "c_bannerSection",
+        "c_gallerySection",
+        "c_heroSection",
+        "c_insightsSection.title",
+        "c_insightsSection.cta",
+        "c_insightsSection.insights.title",
+        "c_insightsSection.insights.category",
+        "c_insightsSection.insights.photo",
+        "c_insightsSection.insights.date",
+        "c_insightsSection.insights.descriptionLong",
+        "c_insightsSection.insights.descriptionShort",
+        "c_insightsSection.insights.cta",
+        "c_nearbySection",
+        "c_promoSection",
+        "c_reviewsSection"
+      ],
+      "filter": {
+        "savedFilterIds": [
+          "1350549052"
+        ]
+      },
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
+      "source": "knowledgeGraph",
+      "destination": "pages"
+    },
+    {
+      "$id": "directory-city",
+      "fields": [
+        "id",
+        "uid",
+        "meta",
+        "name",
+        "slug",
+        "c_meta",
+        "dm_directoryParents.slug",
+        "dm_directoryParents.name",
+        "dm_directoryChildren.slug",
+        "dm_directoryChildren.name",
+        "dm_directoryChildren.address",
+        "dm_directoryChildren.hours"
+      ],
+      "filter": {
+        "savedFilterIds": [
+          "dm_defaultDirectory_address_city"
+        ]
+      },
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
+      "source": "knowledgeGraph",
+      "destination": "pages"
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+	"__": {
+		"name": "city"
+	},
+	"_site": {
+		"c_copyrightMessage": "© 2022. All Rights Reserved.",
+		"c_facebook": "https://www.facebook.com/",
+		"c_footerLinks": [
+			{
+				"label": "Link1",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link2",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link3",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link4",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link5",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			}
+		],
+		"c_header": {
+			"links": [
+				{
+					"label": "Link1",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link2",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link3",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link4",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link5",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"height": 100,
+				"url": "http://a.mktgcdn.com/p/BzSALSNKyVBFz797EoaKt_k3rgAJonv9DnbGYMbxqds/100x100.png",
+				"width": 100
+			}
+		},
+		"c_instagram": "https://www.instagram.com/",
+		"c_linkedIn": "https://www.linkedin.com/",
+		"c_nearbySectionAPIKey": "21b6fb4f5e4082596e9e340e6a82986a",
+		"c_searchPage": [
+			{
+				"slug": "search"
+			}
+		],
+		"c_twitter": "https://www.twitter.com/",
+		"c_youtube": "https://www.youtube.com/",
+		"id": "site-entity",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 141687
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1024956870
+	},
+	"businessId": 3499745,
+	"dm_directoryChildren": [
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "46 18th Street",
+				"postalCode": "15222",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "02:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "02:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "08:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "08:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/46-18th-street"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "5491 Penn Avenue",
+				"postalCode": "15206",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/5491-penn-avenue"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "1832 East Carson Street",
+				"postalCode": "15203",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/1832-east-carson-street"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "3803 Forbes Avenue",
+				"postalCode": "15213",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/3803-forbes-avenue"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "2 Market Square",
+				"line2": "5th Floor",
+				"postalCode": "15222",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "10:30"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "10:30"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/2-market-square"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "4501 Steubenville Pike",
+				"postalCode": "15205",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/4501-steubenville-pike"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "830 Clairton Boulevard",
+				"postalCode": "15236",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/830-clairton-boulevard"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "6 Anchor Drive",
+				"postalCode": "15238",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "22:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/6-anchor-drive"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "1000 Airport Blvd",
+				"postalCode": "15231",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "18:30",
+							"start": "07:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/1000-airport-blvd"
+		},
+		{
+			"address": {
+				"city": "Pittsburgh",
+				"countryCode": "US",
+				"line1": "45 McIntyre Square Drive",
+				"postalCode": "15237",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/pittsburgh/45-mcintyre-square-drive"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"name": "Primanti Bros Directory",
+			"slug": "index.html"
+		},
+		{
+			"name": "PA",
+			"slug": "pa"
+		}
+	],
+	"id": "primantiDirectory_pa_pittsburgh",
+	"key": "0:city:knowledgeGraph:1024957153:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_city",
+			"uid": 141683
+		},
+		"locale": "en"
+	},
+	"name": "Pittsburgh",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "pa/pittsburgh",
+	"uid": 1024957153
+}

@@ -1,0 +1,120 @@
+{
+	"__": {
+		"name": "region"
+	},
+	"_site": {
+		"c_copyrightMessage": "© 2022. All Rights Reserved.",
+		"c_facebook": "https://www.facebook.com/",
+		"c_footerLinks": [
+			{
+				"label": "Link1",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link2",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link3",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link4",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link5",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			}
+		],
+		"c_header": {
+			"links": [
+				{
+					"label": "Link1",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link2",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link3",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link4",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link5",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"height": 100,
+				"url": "http://a.mktgcdn.com/p/BzSALSNKyVBFz797EoaKt_k3rgAJonv9DnbGYMbxqds/100x100.png",
+				"width": 100
+			}
+		},
+		"c_instagram": "https://www.instagram.com/",
+		"c_linkedIn": "https://www.linkedin.com/",
+		"c_nearbySectionAPIKey": "21b6fb4f5e4082596e9e340e6a82986a",
+		"c_searchPage": [
+			{
+				"slug": "search"
+			}
+		],
+		"c_twitter": "https://www.twitter.com/",
+		"c_youtube": "https://www.youtube.com/",
+		"id": "site-entity",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 141687
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1024956870
+	},
+	"businessId": 3499745,
+	"dm_directoryChildren": [
+		{
+			"dm_baseEntityCount": "1",
+			"name": "Hagerstown",
+			"slug": "md/hagerstown"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"name": "Primanti Bros Directory",
+			"slug": "index.html"
+		}
+	],
+	"id": "primantiDirectory_md",
+	"key": "0:region:knowledgeGraph:1024962161:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_region",
+			"uid": 141684
+		},
+		"locale": "en"
+	},
+	"name": "MD",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "md",
+	"uid": 1024962161
+}

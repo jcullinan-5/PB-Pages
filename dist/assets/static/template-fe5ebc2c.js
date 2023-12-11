@@ -1,0 +1,1 @@
+import{j as o}from"./sites-components-8fd6f800.js";import{M as s}from"./main-b0e00625.js";import{D as t}from"./directory-c41987d1.js";const e=r=>o.jsx(s,{data:r,children:o.jsx(t,{data:r})});export{e as C};

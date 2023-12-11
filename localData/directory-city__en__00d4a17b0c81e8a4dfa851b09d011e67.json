@@ -1,0 +1,188 @@
+{
+	"__": {
+		"name": "city"
+	},
+	"_site": {
+		"c_copyrightMessage": "© 2022. All Rights Reserved.",
+		"c_facebook": "https://www.facebook.com/",
+		"c_footerLinks": [
+			{
+				"label": "Link1",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link2",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link3",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link4",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link5",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			}
+		],
+		"c_header": {
+			"links": [
+				{
+					"label": "Link1",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link2",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link3",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link4",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link5",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"height": 100,
+				"url": "http://a.mktgcdn.com/p/BzSALSNKyVBFz797EoaKt_k3rgAJonv9DnbGYMbxqds/100x100.png",
+				"width": 100
+			}
+		},
+		"c_instagram": "https://www.instagram.com/",
+		"c_linkedIn": "https://www.linkedin.com/",
+		"c_nearbySectionAPIKey": "21b6fb4f5e4082596e9e340e6a82986a",
+		"c_searchPage": [
+			{
+				"slug": "search"
+			}
+		],
+		"c_twitter": "https://www.twitter.com/",
+		"c_youtube": "https://www.youtube.com/",
+		"id": "site-entity",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 141687
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1024956870
+	},
+	"businessId": 3499745,
+	"dm_directoryChildren": [
+		{
+			"address": {
+				"city": "North Versailles",
+				"countryCode": "US",
+				"line1": "921 East Pittsburgh McKeesport Boulevard",
+				"postalCode": "15137",
+				"region": "PA"
+			},
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"saturday": {
+					"openIntervals": [
+						{
+							"end": "01:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"sunday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "00:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "23:00",
+							"start": "11:00"
+						}
+					]
+				}
+			},
+			"name": "Primanti Bros. Restaurant and Bar",
+			"slug": "pa/north-versailles/921-east-pittsburgh-mckeesport-boulevard"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"name": "Primanti Bros Directory",
+			"slug": "index.html"
+		},
+		{
+			"name": "PA",
+			"slug": "pa"
+		}
+	],
+	"id": "primantiDirectory_pa_north_versailles",
+	"key": "0:city:knowledgeGraph:1024957159:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_city",
+			"uid": 141683
+		},
+		"locale": "en"
+	},
+	"name": "North Versailles",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "pa/north-versailles",
+	"uid": 1024957159
+}

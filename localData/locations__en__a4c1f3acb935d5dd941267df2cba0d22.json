@@ -1,0 +1,232 @@
+{
+	"__": {
+		"name": "entity"
+	},
+	"_site": {
+		"c_copyrightMessage": "© 2022. All Rights Reserved.",
+		"c_facebook": "https://www.facebook.com/",
+		"c_footerLinks": [
+			{
+				"label": "Link1",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link2",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link3",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link4",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			},
+			{
+				"label": "Link5",
+				"link": "https://www.yext.com",
+				"linkType": "URL"
+			}
+		],
+		"c_header": {
+			"links": [
+				{
+					"label": "Link1",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link2",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link3",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link4",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				},
+				{
+					"label": "Link5",
+					"link": "https://www.yext.com",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"height": 100,
+				"url": "http://a.mktgcdn.com/p/BzSALSNKyVBFz797EoaKt_k3rgAJonv9DnbGYMbxqds/100x100.png",
+				"width": 100
+			}
+		},
+		"c_instagram": "https://www.instagram.com/",
+		"c_linkedIn": "https://www.linkedin.com/",
+		"c_nearbySectionAPIKey": "21b6fb4f5e4082596e9e340e6a82986a",
+		"c_searchPage": [
+			{
+				"slug": "search"
+			}
+		],
+		"c_twitter": "https://www.twitter.com/",
+		"c_youtube": "https://www.youtube.com/",
+		"id": "site-entity",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 141687
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1024956870
+	},
+	"address": {
+		"city": "Pittsburgh",
+		"countryCode": "US",
+		"line1": "830 Clairton Boulevard",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Pennsylvania",
+		"postalCode": "15236",
+		"region": "PA"
+	},
+	"businessId": 3499745,
+	"c_aboutSection": {
+		"description": "Founded in Pittsburgh’s historic Strip District in 1933, our Primanti Bros. Pittsburgh location is your go-to for delicious handcrafted sandwiches piled high with house-made coleslaw and perfectly seasoned fresh-cut fries. Stop by for an ice-cold beer and a slice of our famous Primanti Bros pizza. No matter what you’re craving, our wide selection of tasty appetizers and delicious drinks at a great price is sure to keep you coming back for more! Check out our custom Pittsburgh menu and order online with ease.  Hosting an upcoming event? Leave your guests delighted with Primanti Bros Catering and try our renowned boneless wings and mini bro sandwich platter. We’ve enjoyed serving our guests for over 80 years. Dedicated to providing best-in-class service, we will continue to treat you as a member of our family.",
+		"title": "Welcome to your local Primanti Bros in Pittsburgh, PA!"
+	},
+	"c_gallerySection": {
+		"images": [
+			{
+				"height": 3000,
+				"url": "https://a.mktgcdn.com/p/e3tgs99ZqTHMN4y0avH6r5-xSEc6kAstVctPZyyfRHY/3000x3000.jpg",
+				"width": 3000
+			},
+			{
+				"height": 360,
+				"url": "https://a.mktgcdn.com/p/ojWWASdkHQxLKotUzdEwui0V2wnuNV_6ZPGm9lL9gK4/360x360.jpg",
+				"width": 360
+			},
+			{
+				"height": 360,
+				"url": "https://a.mktgcdn.com/p/wvfi1segnk-EXheK-5PsbxeHihmNTcB5HdfvSqFerAE/360x360.jpg",
+				"width": 360
+			},
+			{
+				"height": 360,
+				"url": "https://a.mktgcdn.com/p/vYSltrBZrb4KjW-rkizr7o2qPW2MfZxx8XrSwo4Oawo/360x360.jpg",
+				"width": 360
+			}
+		]
+	},
+	"description": "Founded in Pittsburgh's historic Strip District in 1933, Primanti Bros specializes in loaded sandwiches packed with house-made coleslaw and fresh cut fries. Our American restaurant features sandwiches, burgers, fries, wings, and great appetizers. Stop in for an ice-cold beer at our sports bar and grille and grab a slice of our Primanti Bros Pizza. Most locations feature happy hour specials, so stop in after work for great deals on drinks and appetizers. We are open for indoor dining, and we offer no-contact delivery and curbside pickup",
+	"dm_directoryParents": [
+		{
+			"name": "Primanti Bros Directory",
+			"slug": "index.html"
+		},
+		{
+			"name": "PA",
+			"slug": "pa"
+		},
+		{
+			"name": "Pittsburgh",
+			"slug": "pa/pittsburgh"
+		}
+	],
+	"hours": {
+		"friday": {
+			"openIntervals": [
+				{
+					"end": "00:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"monday": {
+			"openIntervals": [
+				{
+					"end": "23:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"saturday": {
+			"openIntervals": [
+				{
+					"end": "00:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"sunday": {
+			"openIntervals": [
+				{
+					"end": "23:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"thursday": {
+			"openIntervals": [
+				{
+					"end": "00:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"tuesday": {
+			"openIntervals": [
+				{
+					"end": "23:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"wednesday": {
+			"openIntervals": [
+				{
+					"end": "23:00",
+					"start": "11:00"
+				}
+			]
+		}
+	},
+	"id": "Pleasant Hills",
+	"key": "0:entity:knowledgeGraph:1023413967:en",
+	"locale": "en",
+	"logo": {
+		"clickthroughUrl": "https://primantibros.com/",
+		"image": {
+			"alternateText": "Primanti Bros. Restaurant \u0026 Bar Logo",
+			"height": 2460,
+			"url": "https://a.mktgcdn.com/p/O6EvzUIz3iIS2nbEmgDok9putgL4pWByrPcIwGb6JXA/2460x2460.png",
+			"width": 2460
+		}
+	},
+	"mainPhone": "+14126536779",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Primanti Bros. Restaurant and Bar",
+	"ref_listings": [],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "pa/pittsburgh/830-clairton-boulevard",
+	"uid": 1023413967,
+	"yextDisplayCoordinate": {
+		"latitude": 40.323923256598505,
+		"longitude": -79.94383915277864
+	}
+}
